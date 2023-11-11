@@ -1,0 +1,86 @@
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.exe.config
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.exe
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.pdb
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.AssemblyReference.cache
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_Add_Customer_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_Search_Or_Update_Customer_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_View_Customer_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Distributer.frm_Add_Distributer_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Distributer.frm_Search_Or_Update_Distributor_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Distributer.frm_View_Distributor_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Employee.frm_Search_Or_Update_Emp_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Employee.frm_View_Emp_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Add_Category.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Add_New_Product.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Search_Or_Update_Product_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Add_Subcategory.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_View_Product_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Properties.Resources.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.GenerateResource.cache
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.CoreCompileInputs.cache
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.exe
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.pdb
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Employee.frm_Add_Employee.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Stock.frm_Add_Stock.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Stock.frm_View_Stock_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Master_Page.frm_Master_Page.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Login_Page.frm_Login.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.exe.config
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.exe
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.pdb
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.AssemblyReference.cache
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_Add_Customer_Details.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_Customer.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_Search_Or_Update_Customer_Details.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_View_Customer_Details.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Login_Page.frm_Login.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Master_Page.frm_Master_Page.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Add_New_Product.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Product.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Search_Or_Update_Product_Details.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_View_Product_Details.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Properties.Resources.resources
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.GenerateResource.cache
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.CoreCompileInputs.cache
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.exe
+D:\Collage Project\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.pdb
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.exe.config
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.exe
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.pdb
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.AssemblyReference.cache
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_Add_Customer_Details.resources
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_Customer.resources
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_View_Customer_Details.resources
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Login_Page.frm_Login.resources
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Master_Page.frm_Master_Page.resources
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Add_New_Product.resources
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Product.resources
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Search_Or_Update_Product_Details.resources
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_View_Product_Details.resources
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Properties.Resources.resources
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.GenerateResource.cache
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.CoreCompileInputs.cache
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.exe
+D:\Collage Project\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.pdb
+D:\Project Final\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.exe.config
+D:\Project Final\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.exe
+D:\Project Final\Ayuraj_Computer_Shopee_App\bin\Debug\Ayuraj_Computer_Shopee_App.pdb
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.AssemblyReference.cache
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_Add_Customer_Details.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_Customer.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Customer.frm_View_Customer_Details.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Login_Page.frm_Login.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Master_Page.frm_Master_Page.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Add_New_Product.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Product.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_Search_Or_Update_Product_Details.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Product.frm_View_Product_Details.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Properties.Resources.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.GenerateResource.cache
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.csproj.CoreCompileInputs.cache
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.exe
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.pdb
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Employee.frm_Add_Employee.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Employee.frm_Employee.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Employee.frm_Search_Or_Update_Employee.resources
+D:\Project Final\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Employee.frm_View_Employee_Details.resources
